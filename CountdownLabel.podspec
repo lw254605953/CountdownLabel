@@ -5,7 +5,7 @@ Pod::Spec.new do |s|
   s.homepage     = "https://github.com/suzuki-0000/CountdownLabel"
   s.license      = { :type => "MIT", :file => "LICENSE" }
   s.author       = { "suzuki_keishi" => "keishi.1983@gmail.com" }
-  s.source       = { :git => "https://github.com/suzuki-0000/CountdownLabel.git", :tag => s.version }
+  s.source       = { :git => "https://github.com/lw254605953/CountdownLabel.git", :tag => s.version }
   s.platform     = :ios, "8.2"
   s.source_files = 'CountdownLabel/*.swift'
   s.source_files = 'CountdownLabel/**/*.swift'
